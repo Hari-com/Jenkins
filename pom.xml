@@ -2,16 +2,16 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.testprojects</groupId>
-  <artifactId>January</artifactId>
+  <artifactId>December</artifactId>
   <packaging>jar</packaging>
-  <version>2.0-SNAPSHOT</version>
+  <version>5.0-SNAPSHOT</version>
 
-  <name>January</name>
+  <name>December</name>
   <url>http://maven.apache.org</url>
 
 <scm>
-<developerConnection>scm:git:https://github.com/Hari-com/January.git</developerConnection>
-<url>git:git://github.com:Hari-com/January.git</url>
+<developerConnection>scm:git:git@github.com:hari-com/Jenkins.git</developerConnection>
+<url>git:git://github.com:hari-com/Jenkins.git</url>
 </scm>
 
   <dependencies>
