@@ -10,7 +10,7 @@
   <url>http://maven.apache.org</url>
 
 <scm>
-<developerConnection>scm:git:git@github.com:hari-com/Jenkins.git</developerConnection>
+<developerConnection>scm:git:https://github.com/hari-com/Jenkins.git</developerConnection>
 <url>git:git://github.com:hari-com/Jenkins.git</url>
 </scm>
 
@@ -37,4 +37,3 @@
 </distributionManagement>
 
 </project>
-
