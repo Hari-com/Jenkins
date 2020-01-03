@@ -1,2 +1,2 @@
-@Library('oct-shared@master')_
+@Library('shared-library')_
 mvnbuild()
