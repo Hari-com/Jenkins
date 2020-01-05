@@ -3,7 +3,7 @@
 
   <groupId>com.testprojects</groupId>
   <artifactId>December</artifactId>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
   <version>99.1-SNAPSHOT</version>
 
   <name>December</name>
