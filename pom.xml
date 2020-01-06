@@ -12,7 +12,7 @@
 <scm>
 <developerConnection>scm:git:https://github.com/hari-com/Jenkins.git</developerConnection>
 <url>git:git://github.com:hari-com/Jenkins.git</url>
-  <tag>HEAD</tag>
+  <tag>Feb-1.0</tag>
   </scm>
 
   <dependencies>
