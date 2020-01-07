@@ -11,7 +11,7 @@
 
 <scm>
 <developerConnection>scm:git:https://github.com/hari-com/Jenkins.git</developerConnection>
-<url>git:git://github.com:hari-com/Jenkins.git</url>
+<url>git:git:git@github.com:hari-com/Jenkins.git</url>
   <tag>HEAD</tag>
   </scm>
 
