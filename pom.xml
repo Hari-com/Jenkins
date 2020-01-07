@@ -4,7 +4,7 @@
   <groupId>com.testprojects</groupId>
   <artifactId>Feb</artifactId>
   <packaging>jar</packaging>
-  <version>2.0-SNAPSHOT</version>
+  <version>2.0</version>
 
   <name>Feb</name>
   <url>http://maven.apache.org</url>
@@ -13,7 +13,7 @@
    <connection>scm:git:git@github.com:hari-com/Jenkins.git</connection>
    <developerConnection>scm:git:git@github.com:hari-com/Jenkins.git</developerConnection>
    <url>http://github.com/hari-com/Jenkins.git</url>
-    <tag>HEAD</tag>
+    <tag>Feb-2.0</tag>
   </scm>
 
   <dependencies>
