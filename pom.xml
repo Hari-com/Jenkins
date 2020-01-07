@@ -9,10 +9,11 @@
   <name>Feb</name>
   <url>http://maven.apache.org</url>
 
-<scm>
-<developerConnection>scm:git:https://github.com/hari-com/Jenkins.git</developerConnection>
-<url>git:git@github.com:hari-com/Jenkins.git</url>
-  <tag>HEAD</tag>
+  <scm>
+   <connection>scm:git:git@github.com:hari-com/Jenkins.git</connection>
+   <developerConnection>scm:git:git@github.com:hari-com/Jenkins.git</developerConnection>
+   <url>http://github.com/hari-com/Jenkins.git</url>
+    <tag>HEAD</tag>
   </scm>
 
   <dependencies>
